@@ -9,7 +9,7 @@ DEFAULT_CONFIG = {
         "dataflows/data_cache",
     ),
     # LLM settings
-    "deep_think_llm": "o3-mini",
+    "deep_think_llm": "gpt-4o-mini",
     "quick_think_llm": "gpt-4o-mini",
     # Debate and discussion settings
     "max_debate_rounds": 4,
